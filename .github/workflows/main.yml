@@ -18,8 +18,10 @@ jobs:
         id: snake-gif
         with:
           github_user_name: abhishek2k21
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake.svg
 
       - name: Show git status
         run: git status
