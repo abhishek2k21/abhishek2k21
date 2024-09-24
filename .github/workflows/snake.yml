@@ -1,0 +1,30 @@
+name: Generate Snake
+
+# This triggers the workflow to run at midnight every day (UTC).
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight
+  workflow_dispatch:  # Allow manual trigger from the Actions tab.
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Check out the repository's content.
+      - uses: actions/checkout@v2
+      
+      # Generate the snake animation (Platane's GitHub Action).
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: abhishek2k21  # Replace this with your GitHub username.
+          outputs: dist/snake.svg
+
+      # Push the output to the "output" branch
+      - name: Push Snake Animation to the output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
