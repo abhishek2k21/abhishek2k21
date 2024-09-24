@@ -55,8 +55,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="![snake gif](https://github.com/abhishek2k21/abhishek2k21/blob/output/github-contribution-grid-snake.gif)" />
-  <br/><br/><br/>
+![snake gif](https://github.com/abhishek2k21/abhishek2k21/blob/output/github-contribution-grid-snake.gif)<br/>
 </div>
 
 <hr/>
