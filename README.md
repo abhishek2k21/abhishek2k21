@@ -16,7 +16,7 @@
 
 - 📫 Reach out to me on **kumar.abhi2k1@gmail.com**
 
-- 📄 Know about my experiences ([https://drive.google.com/drive/folders/1wVV5FM-Ycp9AMxxiZYfTuzPojdg-Fe-2](https://drive.google.com/file/d/1ekO__wuwL2uU1rI7ZwVliTeM60HJtH7N/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FLhn1Oar-nk6uuQf6GlVYGb5MorORTjv/view?usp=sharing]
 
 - ⚡ In my leisure time, **I love to watch cricket, or binge-watch some great mystery thrillers**
 
