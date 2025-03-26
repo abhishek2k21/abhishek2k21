@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.hackerrank.com/profile/abhiall2k19" target="_blank">
-     <img src="https://static-00.iconduck.com/assets.00/hackerrank-icon-1856x2048-w18w1by7" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://static-00.iconduck.com/assets.00/hackerrank-icon-1856x2048-w18w1by7.png7" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
