@@ -1,23 +1,17 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abhishek2k21.abhishek2k21" />
-<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-
-<h3 align="center">Software Developer from Jamshedpur, Jharkhand (India)</h3>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&color=FF0000&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Backend+%26+Java+Developer+👨‍💻;Passionate+to+develop+scalable+products;Always+learning+new+things!" />
-</h3>
-
-
-- 💻 I’m a Backend & Java Developer **Ecommerce-Backend-Springboot-Project**
-
-- 🌱 I’m currently learning **Java, Spring Boot,MySQL, Microservices**
-
-- 💬 Ask me about **anything, I am happy to help**
-
-- 📫 Reach out to me on **kumar.abhi2k1@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FLhn1Oar-nk6uuQf6GlVYGb5MorORTjv/view?usp=sharing]
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abhishek2k21.abhishek2k21" />  
+<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>  
+  
+<h3 align="center">Software Developer from Bangalore, Karnataka (India)</h3>  
+  
+<h3 align="center">  
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&color=FF0000&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Backend+%26+Java+Developer+👨‍💻;Passionate+to+develop+scalable+products;Always+learning+new+things!" />  
+</h3>  
+  
+- 💻 I’m a Backend & Java Developer **Ecommerce-Backend-Springboot-Project**  
+- 🌱 I’m currently learning **Java, Spring Boot, MySQL, Microservices**  
+- 💬 Ask me about **anything, I am happy to help**  
+- 📫 Reach out to me on **kumar.abhi2k1@gmail.com**  
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/19DRijy16OcA0sRu4sVdGhqyp01xC9qH5/view?usp=drivesdk)  
 - ⚡ In my leisure time, **I love to watch cricket, or binge-watch some great mystery thrillers**
 
  
