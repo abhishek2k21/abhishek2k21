@@ -21,7 +21,7 @@
   <a href="mailto:iamabhishek2k1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/abhishek2k21" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishek-kumar-029625240/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://leetcode.com/u/0DEtjpS3OH/" target="_blank">
