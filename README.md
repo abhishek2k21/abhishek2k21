@@ -2,17 +2,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abhishek2k21.abhishek2k21&title=Profile%20Views&color=blue" />  
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>  
   
-<h3 align="center">Software Development Engineer from Bangalore, India</h3>  
+<h3 align="center">React JS Developer from Bangalore, India</h3>  
   
 <h3 align="center">  
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&color=FF0000&center=true&vCenter=true&width=650&height=70&duration=4000&lines=SDE+Intern+at+Paytm+👨‍💻;Java+%7C+Spring+Boot+%7C+Microservices;Building+scalable+backend+systems!" />  
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&color=FF0000&center=true&vCenter=true&width=650&height=70&duration=4000&lines=React+%26+Full-Stack+Developer+👨‍💻;React.js+%7C+JavaScript+%7C+REST+APIs;Building+responsive+web+apps!" />  
 </h3>  
   
-- 💻 Currently working as **SDE Intern at One97 Communications Ltd. (Paytm)** in Middleware & Product Services team  
-- 🔧 Building REST APIs for account provisioning, debit card issuance, notifications, and card lifecycle management  
-- 🌱 Skilled in **Java 8, Spring Boot, Kubernetes, AWS, MySQL, Cassandra**  
+- 💻 Currently working as **React & Full-Stack Developer at Speedbae – Logistics & eCommerce**  
+- 🔧 Building **responsive React.js components** for checkout, cart management, and order tracking dashboards  
+- 🌱 Skilled in **React.js, JavaScript (ES6+), HTML5, CSS3, REST APIs, Java, Spring Boot**  
+- 🏢 Previously **QA Intern at Paytm Payment Bank** — testing KYC flows, card provisioning, and notification pipelines  
 - 🧠 Interested in **Data Structures & Algorithms, System Design, and Gen AI / LLMs**  
-- 💬 Ask me about **Java, Spring Boot, Microservices, REST APIs — happy to help!**  
+- 💬 Ask me about **React.js, JavaScript, REST APIs, Spring Boot — happy to help!**  
 - 📫 Reach me at **iamabhishek2k1@gmail.com**  
 - 📄 Check out my portfolio [here](https://abhishek2k21.github.io/my-portfolio/)  
 - ⚡ Fun fact: **I love watching cricket and binge-watching mystery thrillers**
@@ -38,19 +39,24 @@
 <br/>
 <div align="center">
 
-<!-- Backend -->
-<h3>Backend & Cloud</h3>
-<img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,aws,gcp,mysql,cassandra,jenkins,maven,postman,git" />
-<br/><br/>
-
 <!-- Frontend -->
-<h3>Frontend & Others</h3>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vue" />
+<h3>Frontend</h3>
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css,vue" />
 <br/><br/>
 
-<!-- Tools -->
-<h3>Dev Tools</h3>
-<img src="https://skillicons.dev/icons?i=idea,eclipse,linux,bitbucket" />
+<!-- Backend & APIs -->
+<h3>Backend & APIs</h3>
+<img src="https://skillicons.dev/icons?i=java,spring,maven" />
+<br/><br/>
+
+<!-- Databases -->
+<h3>Databases</h3>
+<img src="https://skillicons.dev/icons?i=mysql,cassandra" />
+<br/><br/>
+
+<!-- DevOps & Tools -->
+<h3>DevOps & Tools</h3>
+<img src="https://skillicons.dev/icons?i=git,bitbucket,docker,kubernetes,jenkins,postman,aws,gcp" />
 
 </div>
 
@@ -62,8 +68,8 @@
 
 | Role | Company | Duration |
 |------|---------|----------|
-| **SDE Intern** | One97 Communications Ltd. (Paytm) — Middleware & Product Services | Aug 2025 – Present |
-| **SD Intern** | Speedbae — Logistics & Checkout Services (Internal Dev Team) | Jan 2022 – Mar 2022 |
+| **React & Full-Stack Developer** | Speedbae – Logistics & eCommerce | Nov 2024 – Present |
+| **QA Intern** | Paytm Payment Bank – Digital Banking | Aug 2023 – Aug 2024 |
 
 <br/>
 <hr/>
