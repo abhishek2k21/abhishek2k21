@@ -2,18 +2,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abhishek2k21.abhishek2k21&title=Profile%20Views&color=blue" />  
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>  
   
-<h3 align="center">React JS Developer from Bangalore, India</h3>  
+<h3 align="center">Backend Developer from Bangalore, India</h3>  
   
 <h3 align="center">  
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&color=FF0000&center=true&vCenter=true&width=650&height=70&duration=4000&lines=React+%26+Full-Stack+Developer+👨‍💻;React.js+%7C+JavaScript+%7C+REST+APIs;Building+responsive+web+apps!" />  
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&color=FF0000&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Backend+Developer+👨‍💻;Java+%7C+Spring+Boot+%7C+Microservices;Building+scalable+systems!" />  
 </h3>  
   
-- 💻 Currently working as **React & Full-Stack Developer at Speedbae – Logistics & eCommerce**  
-- 🔧 Building **responsive React.js components** for checkout, cart management, and order tracking dashboards  
-- 🌱 Skilled in **React.js, JavaScript (ES6+), HTML5, CSS3, REST APIs, Java, Spring Boot**  
-- 🏢 Previously **QA Intern at Paytm Payment Bank** — testing KYC flows, card provisioning, and notification pipelines  
-- 🧠 Interested in **Data Structures & Algorithms, System Design, and Gen AI / LLMs**  
-- 💬 Ask me about **React.js, JavaScript, REST APIs, Spring Boot — happy to help!**  
+- 💻 Currently working as **Backend Developer — Product Service Team at Speedbae – E-commerce Delivery**  
+- 🔧 Building **scalable microservices** for order lifecycle, inventory management, and real-time tracking systems  
+- 🌱 Skilled in **Java, Spring Boot, Microservices, MySQL, Cassandra, Event-Driven Systems, REST APIs, DevOps**  
+- 📈 **2+ years experience** designing high-throughput systems handling 10,000+ SKUs and 5,000+ daily deliveries  
+- 🧠 Interested in **System Design, Performance Optimization, Data Consistency, and Distributed Systems**  
+- 💬 Ask me about **Spring Boot, Microservices, System Design, Backend Architecture — happy to help!**  
 - 📫 Reach me at **iamabhishek2k1@gmail.com**  
 - 📄 Check out my portfolio [here](https://abhishek2k21.github.io/my-portfolio/)  
 - ⚡ Fun fact: **I love watching cricket and binge-watching mystery thrillers**
@@ -68,8 +68,7 @@
 
 | Role | Company | Duration |
 |------|---------|----------|
-| **React & Full-Stack Developer** | Speedbae – Logistics & eCommerce | Nov 2024 – Present |
-| **QA Intern** | Paytm Payment Bank – Digital Banking | Aug 2023 – Aug 2024 |
+| **Backend Developer — Product Service Team** | Speedbae – E-commerce Delivery | Mar 2024 – Present |
 
 <br/>
 <hr/>
