@@ -5,15 +5,16 @@
 <h3 align="center">Backend Developer from Bangalore, India</h3>  
   
 <h3 align="center">  
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&color=FF0000&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Backend+Developer+👨‍💻;Java+%7C+Spring+Boot+%7C+Microservices;Building+scalable+systems!" />  
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&color=FF0000&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Backend+Developer+👨‍💻;Java+%7C+Spring+Boot+%7C+GenAI;Building+scalable+systems!;LLM+%7C+OpenAI+%7C+Microservices" />  
 </h3>  
   
-- 💻 Currently working as **Backend Developer — Product Service Team at Speedbae – E-commerce Delivery**  
-- 🔧 Building **scalable microservices** for order lifecycle, inventory management, and real-time tracking systems  
-- 🌱 Skilled in **Java, Spring Boot, Microservices, MySQL, Cassandra, Event-Driven Systems, REST APIs, DevOps**  
-- 📈 **2+ years experience** designing high-throughput systems handling 10,000+ SKUs and 5,000+ daily deliveries  
-- 🧠 Interested in **System Design, Performance Optimization, Data Consistency, and Distributed Systems**  
-- 💬 Ask me about **Spring Boot, Microservices, System Design, Backend Architecture — happy to help!**  
+- 💻 Currently working as **Backend Developer at [AssistArmy](https://assistarmy.in/) – Digital Human Interface (DHI) AI Startup**  
+- 🤖 Contributing to **GenAI-powered backend systems** integrating LLMs, OpenAI APIs, and RAG pipelines  
+- 🔧 Previously contributed to **order lifecycle, inventory, and delivery tracking systems** at Speedbae  
+- 🌱 Skilled in **Java 21, Spring Boot, Microservices, REST APIs, WebSocket, OpenAI APIs, MySQL, Docker**  
+- 📈 **1 year 10 months experience** contributing to scalable microservices and GenAI-powered backend systems  
+- 🧠 Interested in **System Design, LLM Integration, Prompt Engineering, and Distributed Systems**  
+- 💬 Ask me about **Spring Boot, Microservices, GenAI Integration, Backend Architecture — happy to help!**  
 - 📫 Reach me at **iamabhishek2k1@gmail.com**  
 - 📄 Check out my portfolio [here](https://abhishek2k21.github.io/my-portfolio/)  
 - ⚡ Fun fact: **I love watching cricket and binge-watching mystery thrillers**
@@ -39,24 +40,32 @@
 <br/>
 <div align="center">
 
-<!-- Frontend -->
-<h3>Frontend</h3>
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css,vue" />
-<br/><br/>
-
 <!-- Backend & APIs -->
 <h3>Backend & APIs</h3>
 <img src="https://skillicons.dev/icons?i=java,spring,maven" />
 <br/><br/>
 
+<!-- AI / GenAI -->
+<h3>AI / GenAI</h3>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_Integration-FF6F00?style=for-the-badge&logo=ai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-00897B?style=for-the-badge&logo=ai&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-7C4DFF?style=for-the-badge&logo=ai&logoColor=white" />
+<br/><br/>
+
 <!-- Databases -->
 <h3>Databases</h3>
-<img src="https://skillicons.dev/icons?i=mysql,cassandra" />
+<img src="https://skillicons.dev/icons?i=mysql,cassandra,redis" />
+<br/><br/>
+
+<!-- Frontend -->
+<h3>Frontend</h3>
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css,vue" />
 <br/><br/>
 
 <!-- DevOps & Tools -->
 <h3>DevOps & Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,bitbucket,docker,kubernetes,jenkins,postman,aws,gcp" />
+<img src="https://skillicons.dev/icons?i=docker,jenkins,git,bitbucket,postman,aws,gcp" />
 
 </div>
 
@@ -68,7 +77,8 @@
 
 | Role | Company | Duration |
 |------|---------|----------|
-| **Backend Developer — Product Service Team** | Speedbae – E-commerce Delivery | Mar 2024 – Present |
+| **Backend Developer** | [AssistArmy](https://assistarmy.in/) – DHI AI Startup | Jan 2025 – Present |
+| **Backend Developer** | Speedbae – E-commerce Delivery | Jul 2024 – Jan 2025 |
 
 <br/>
 <hr/>
