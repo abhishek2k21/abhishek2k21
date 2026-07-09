@@ -2,21 +2,22 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abhishek2k21.abhishek2k21&title=Profile%20Views&color=blue" />  
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>  
   
-<h3 align="center">Java Backend Developer | Banking & Financial Services | India</h3>  
+<h3 align="center">Backend Developer | Java · Spring Boot · GenAI · Microservices | India</h3>  
   
 <h3 align="center">  
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&color=0066CC&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Java+Backend+Developer+👨‍💻;Banking+%26+Financial+Services;Spring+Boot+%7C+Microservices+%7C+Cloud;Building+scalable+fintech+systems!" />  
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&color=0066CC&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Backend+Developer+👨‍💻;Java+21+%7C+Spring+Boot+%7C+GenAI;Building+AI+Avatar+APIs+at+AssistArmy;Kafka+%7C+Redis+%7C+Microservices" />  
 </h3>  
   
-- 💻 Currently working as **Java Backend Developer at [AssistArmy](https://assistarmy.in/) — Building cloud-native microservices for digital banking platforms**  
-- 🏦 Specializing in **Banking & Financial Services** domain — transaction processing, payment systems, and secure API development  
-- 🔧 Previously contributed to **order lifecycle, payment processing, and inventory tracking systems** at Speedbae  
-- 🌱 Skilled in **Java 21, Spring Boot, Microservices, RESTful APIs, PostgreSQL, Docker, Kubernetes, CI/CD**  
-- ☁️ Experienced with **AWS (EC2, S3, RDS, Lambda), Azure, GCP** — cloud-native development & deployment automation  
-- 🛡️ Strong focus on **Spring Security, OAuth 2.0, JWT, OWASP, and financial data protection standards**  
-- 📈 **~2 years experience** building scalable backend systems with SOA, TDD, and Agile methodologies  
-- 🧠 Interested in **System Design, Database Optimization, Cloud Architecture, and DevOps Practices**  
-- 💬 Ask me about **Spring Boot, Microservices, Banking APIs, CI/CD, Kubernetes — happy to help!**  
+- 💻 Currently working as **Backend Developer at [AssistArmy](https://assistarmy.in/)** — building backend services for real-time AI avatar interactions across 3 client platforms  
+- 🤖 Integrated **OpenAI LLM APIs** into the conversation pipeline — prompt formatting, response parsing, guardrail validation, and **RAG-based context-passing** with dynamic prompt chaining  
+- 🔧 Previously at **[Speedbae](https://speedbae.in/)** — built end-to-end order lifecycle service processing 100–200 daily orders; optimized JPA queries cutting p95 latency from 800ms to 180ms  
+- 🌱 Strong in **Java 21, Spring Boot, Kafka, Redis, LLM Integration, and Distributed Systems Design**  
+- 🗄️ Databases: **MySQL, Cassandra, Redis** — eliminated N+1 query issues, built real-time delivery tracking on Cassandra  
+- ☁️ DevOps: **Docker, Jenkins, CI/CD, Git, Bitbucket, Swagger/OpenAPI**  
+- 🧪 Testing: **80+ JUnit/Mockito tests** reaching 85%+ coverage on owned modules  
+- 📈 **~2 years experience** building scalable microservices and GenAI-powered systems in production  
+- 🧠 Interested in **System Design, Query Optimization, Cloud Architecture**  
+- 💬 Ask me about **Spring Boot, Microservices, REST APIs, GenAI Integration, CI/CD — happy to help!**  
 - 📫 Reach me at **iamabhishek2k1@gmail.com**  
 - 📄 Check out my portfolio [here](https://abhishek2k21.github.io/my-portfolio/)  
 - ⚡ Fun fact: **I love watching cricket and binge-watching mystery thrillers**
@@ -41,7 +42,7 @@
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,kubernetes,aws,azure,gcp,jenkins,githubactions,git,maven,gradle,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,cassandra,redis,kafka,docker,jenkins,githubactions,git,aws,maven,gradle,postman,linux,python" />
 </div>
 
 <br/>
@@ -49,38 +50,82 @@
 <div align="center">
   <table>
     <tr>
-      <td><b>🏗️ Architecture</b></td>
-      <td>Microservices · RESTful APIs · SOA · Event-Driven Architecture</td>
+      <td><b>🏗️ Backend</b></td>
+      <td>Java (8, 11, 17, 21) · Spring Boot · Spring Security · Spring Data JPA · JPA/Hibernate · REST APIs · WebSocket · Microservices · Kafka</td>
+    </tr>
+    <tr>
+      <td><b>🤖 AI / GenAI</b></td>
+      <td>OpenAI APIs · LLM Integration · Prompt Engineering · RAG Pipelines · Pydantic-AI</td>
+    </tr>
+    <tr>
+      <td><b>🗄️ Databases</b></td>
+      <td>MySQL · Cassandra · Redis</td>
     </tr>
     <tr>
       <td><b>🔐 Security</b></td>
-      <td>Spring Security · OAuth 2.0 · JWT · OWASP · Data Encryption</td>
+      <td>Spring Security · JWT Authentication · RBAC</td>
     </tr>
     <tr>
       <td><b>🧪 Testing</b></td>
-      <td>JUnit 5 · Mockito · TDD · Integration Testing · SonarQube</td>
+      <td>JUnit 5 · Mockito · Integration Testing · 85%+ Coverage</td>
     </tr>
     <tr>
-      <td><b>📋 Practices</b></td>
-      <td>Agile/Scrum · Code Reviews · CI/CD · Database Optimization · Schema Design</td>
+      <td><b>📋 DevOps & Tools</b></td>
+      <td>Docker · Jenkins · CI/CD · Git · Bitbucket · Postman · Swagger/OpenAPI · JIRA · Agile/Scrum</td>
+    </tr>
+    <tr>
+      <td><b>📚 Familiar</b></td>
+      <td>React.js · JavaScript (ES6+) · HTML5 · CSS3</td>
     </tr>
   </table>
 </div>
 
 <hr/>
 
-<h2 align="center">🏆 Key Projects 🏆</h2>
+<h2 align="center">🏆 Independent Projects 🏆</h2>
 
 <div align="center">
-  <a href="https://github.com/abhishek2k21/E-Commerce-Backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek2k21&repo=E-Commerce-Backend&theme=default" />
-  </a>
-  <a href="https://github.com/abhishek2k21/Meeting-Calendar-Assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek2k21&repo=Meeting-Calendar-Assistant&theme=default" />
-  </a>
   <a href="https://github.com/abhishek2k21/DynamicPDFGenerator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek2k21&repo=DynamicPDFGenerator&theme=default" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><b>🔗 URL Shortener with Real-Time Analytics</b></td>
+      <td>Scalable URL shortener with Redis O(1) lookups, Kafka async analytics streaming, rate limiting, and expiry policies<br/><em>Java 17 · Spring Boot · Redis · Kafka · MySQL · Docker</em></td>
+    </tr>
+    <tr>
+      <td><b>🧠 Cognitive API Agent</b></td>
+      <td>AI-powered tool converting natural language into API calls, with a reasoning layer for request validation and user-confirmed execution<br/><em>Python · Streamlit · OpenAI · Pydantic-AI</em></td>
+    </tr>
+  </table>
+</div>
+
+<p align="center"><em>Personal projects reflect solo, end-to-end ownership — distinct from supporting-role contributions in work experience.</em></p>
+
+<hr/>
+
+<h2 align="center">🎓 Education & Certifications 🎓</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><b>🎓 B.Tech, Computer Science & Engineering</b></td>
+      <td>CEC, Jharkhand · CGPA: 7.93/10 · 2020–2024</td>
+    </tr>
+    <tr>
+      <td><b>📜 Java Programming</b></td>
+      <td>Intellipaat (2023)</td>
+    </tr>
+    <tr>
+      <td><b>📜 Walmart Advanced Software Engineering</b></td>
+      <td>Forage (2024)</td>
+    </tr>
+  </table>
 </div>
 
 <hr/>
