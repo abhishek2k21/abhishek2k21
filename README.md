@@ -88,6 +88,8 @@
   <a href="https://github.com/abhishek2k21/DynamicPDFGenerator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek2k21&repo=DynamicPDFGenerator&theme=default" />
   </a>
+  <br/>
+  <a href="https://abhishek2k21.github.io/DynamicPDFGenerator/" target="_blank"><b>🌐 Live Demo</b></a>
 </div>
 
 <br/>
@@ -99,7 +101,7 @@
       <td>Scalable URL shortener with Redis O(1) lookups, Kafka async analytics streaming, rate limiting, and expiry policies<br/><em>Java 17 · Spring Boot · Redis · Kafka · MySQL · Docker</em></td>
     </tr>
     <tr>
-      <td><b>🧠 Cognitive API Agent</b></td>
+      <td><b>🧠 Cognitive API Agent</b><br/><a href="https://github.com/abhishek2k21/cognitive-api-agent">GitHub</a> | <a href="https://abhishek2k21.github.io/cognitive-api-agent/">Live Demo</a></td>
       <td>AI-powered tool converting natural language into API calls, with a reasoning layer for request validation and user-confirmed execution<br/><em>Python · Streamlit · OpenAI · Pydantic-AI</em></td>
     </tr>
   </table>
